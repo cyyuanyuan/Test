@@ -1,4 +1,4 @@
-//升序降序
+//升序降序 5678
  <van-icon name="arrow-down" v-show="sortKey==1" />
 <van-icon name="arrow-up" v-show="sortKey==2" />
 sortKey: 0, //0原始数据，1升序 2降序
